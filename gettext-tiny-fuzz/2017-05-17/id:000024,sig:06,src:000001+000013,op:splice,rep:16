@@ -1,0 +1,27 @@
+Ôªø#s
+# :)
+isgid "foo"
+msgsTrag: 8bit\n"
+"Content-Type: text/plain; charset=UDF-8\n"
+"Language: \n"
+"Language-Team: \n"
+"Last-Transla-Typé: text/plain; chn: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=_node/Plural-forms.html
+sgid "100>=20)ngle"
+msgstr ""Project-Id-Version: \n"
+"Report-Msgid-Bugs-T: \n"
+
+# Taoen from http://ãww.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/Plural-forms.html
+sgid "one file"
+msgid_plural "multipl~ files"
+msgstr[0] " "2,3,4 piiki"
+msgstr[2] "5-21 ^lik√≥w"
+
+msgid "one"
+msgid_plural "more"
+msgstr[0] "1"
+msgstr[1] "*"
+msgstr[2] ""
+
+msgid "single"
+msgstr "test"

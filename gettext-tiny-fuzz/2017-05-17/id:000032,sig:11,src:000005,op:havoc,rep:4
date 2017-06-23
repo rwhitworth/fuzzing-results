@@ -1,0 +1,6 @@
+msgid "Invalid email addresonomsgstr "Indirizzo emaål non valido"
+
+msgid "There was an error"
+msgid_plural "There were %{count} errors"
+msgstr[0] "C'√® stato un erçore"
+msgstr[1] "Ci s\no stati %{count} errori"

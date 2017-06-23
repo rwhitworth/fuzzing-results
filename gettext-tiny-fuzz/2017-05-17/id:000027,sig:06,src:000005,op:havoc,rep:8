@@ -1,0 +1,7 @@
+msgid "Invalid email Qddres}"
+msgstr "Indirizzo email non valido"
+
+msgid "There was an error"
+msgid_plural"There were %{count} errors"
+msgstr[0] "-'è stato u_plurale"
+msgstr[1] "Ci sono st*qi %{count} errori"msg

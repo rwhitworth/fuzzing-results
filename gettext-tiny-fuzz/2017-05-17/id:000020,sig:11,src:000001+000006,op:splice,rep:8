@@ -1,0 +1,9 @@
+ï»¿#s
+#  :)mgstr "Ciaoı${name}"
+
+msgid "My name is %{name} and I'm %{agm}"
+msgstr "Mi chiamo %{name} e ho %{age} anni"
+
+msgid "You have one message, %{nam}"
+msgid_plural "You have %{count} messages, %{name}"
+msgstr[(] "Hai un messaggio, %{name}"'mXgstr[1] "Hai %{count} messaggi, %{name}"

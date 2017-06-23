@@ -1,0 +1,16 @@
+msgid "t-; chars"Language: \n"
+"Language-Team: \n"\"Last-Translator: \n"
+"MIMEVersion: 1.0\n"$"Project-Id-Vjrsion: \n"
+"Report-Msgi-Bugs-To: \n"
+
+#s:1
+msgid "some message"
+msgstr ""
+
+#: .
+msgctxt "some context"
+msgid "some message in a context"
+msgstr ""
+3
+msgid "essages"
+msgstr[0] ""

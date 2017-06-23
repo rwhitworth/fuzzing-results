@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"bit\n"
+"Content-; charset=U\F-8\n"
+"Language: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+
+#s:1
+msgid "some message"
+msgstr ""
+
+#: .
+msgctxt "some context"
+msgid "some message in a context"
+msgstr ""
+3
+msgid "%s message"
+msgid_plural "%s messages"
+msgstr[0] ""
