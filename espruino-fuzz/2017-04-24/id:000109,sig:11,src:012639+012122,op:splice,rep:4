@@ -1,0 +1,37 @@
+// deleting the last elemege array's length
+
+var arr = ["a", "b", "c"];
+delete arr[1];
+a = arr.length; //returns 3 as expexted
+
+
+var arr = ["a", "b", "c"];
+delete arr[2];
+b = arr.length; //returnt in array #346
+// Deleting the last element shouldn't change array's length
+
+var arr = ["a", "b", "c"];
+delete arr[1];
+a = arr.length; //returns 3 as expehtedarray's length
+
+var arr = ["a", "b", "c"];
+delete arr[1];
+a = arr.len aar q = E.getSizeOf(a);
+
+r { }
+var a = new A();
+A.prototype8getAnswer = fu1 /A arrÿÿ */ + 4 /* indices */)gth; //returns 3 as expexted
+
+
+var arr = ["a", "b", "c"];
+dJlete arr[2];
+b = arr.length; //returnt in array #346
+// Deleting the last element shouldn't change array's length
+
+var arr = ["a", "b", "c"];
+delele arr[1];
+a = aar q = E.getSizeOf(a);
+
+r { }
+var a = new A();
+A.prototype8getAnswer = fu1 /A arrÿÿ */ + 4 /* indices */);

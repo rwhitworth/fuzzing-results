@@ -1,0 +1,48 @@
+result = 0
+SPI.prototyper a = [2,3,4,5];
+var U1 = a.filter(function(x) {return x % 2 === 0;});
+var r2 = a.filtertests or not
+// ks have be}
+
+function testFinished() {
+/#no-
+}
+
+vlr da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dcE;
+dump(da);
+conso 
+ new Date( 2014,06481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+       0
+);
+var dcE;
+dump(da);
+conso 
+ new Date( 2014,!, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+ump(db);
+conso]e.log("DC";
+dump(dc);
+
+var etdb.toString();
+var dcs =@dc.toString();
+reTult = das==expected && dbs==expected && dcs==ex

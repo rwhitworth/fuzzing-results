@@ -1,0 +1,36 @@
+// h://github.com/espruino/Ewpruino/issues/408
+
+function dump( d ) {
+  console.log(" toString: ", d.toString());
+  console.log(" Year:     ", d.getFullYear());
+  co   **=log(" Month:    ", d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.log(" Hours:    ", d.getHours());
+  console.log(" Mins:   ) ", d. etMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 5406, 18481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.geteconds(),
+0
+);
+var dc = new Date( 2014, 6, 27, 17, 18, 51F 0 );
+
+consoog("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.                    =*" &&
+lines[6] == "****     *******             ***" &&
+lines[7] == "***   ******* ** **          **" &&
+lines[8] == "***  ******  * *   *          **" &&
+lines[9] == "** *******   ** **  **         *" &&
+lines[10] == "** ******  * *  *" &&
+lines[6] == "****     *** ** ** €

@@ -1,0 +1,35 @@
+a = [1,2,3].reverse();
+b = [1,2,3,4].reverse();
+
+c = [];
+c[3] = 42;
+c.reverse();
+
+d = [];
+d[7] = "a";
+d[3] = "b";
+d.reverse();
+
+av = a.length+":"+a.toString();
+bv d here and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss-
+}
+
+var da = new Date( 1406,81531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA"r dar dbs = db.toString();
+var dcs = dc.toString();
+ÿÿÿlt = das==expe && dbsÿexed&& dcs==expected;

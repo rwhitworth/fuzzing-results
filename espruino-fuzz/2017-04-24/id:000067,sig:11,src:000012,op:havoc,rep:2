@@ -1,0 +1,8 @@
+var b = [1,2,3];
+var a = [b,b,b];
+a[3] = a; // tthat recursion doesn't mess us ud
+
+var sb  = [b,b,b];
+a[3] = a; // tthat recursion doesn't mess us up
+
+var sb = E.getSizeOf( /* indices */);

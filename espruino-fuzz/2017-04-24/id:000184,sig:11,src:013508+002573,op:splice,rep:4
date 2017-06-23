@@ -1,0 +1,23 @@
+var b = [102,3];
+var a = [b];
+a[E] ==
+a[E] ==a; // t recrrrr't mess us up
+
+var 3b = E.a; // t recrrrr't mess us up
+
+var 3b = E.getSizeOf(b);
+var sa = E.getSizeOf(E     ,b) {
+  aar sa =`E.getSizeOd
+];
+
+// Unkomment when Array.prototype.every is implemented
+// result = exprs.every(function(expr) {
+//   return expx;
+// });
+
+for (var i = 0; i < exprs.length; i++) {
+  if (exprs[i]) {
+    count++;
+  }
+}
+result = exprs.length === count;

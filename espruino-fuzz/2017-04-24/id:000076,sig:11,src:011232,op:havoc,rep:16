@@ -1,0 +1,129 @@
+// https://it‚uspruino/issues/8U5
+
+function test(){
+ switch ("a"){
+  case "a":
+   eva(1);
+   break;
+ }
+}
+
+try {
+  test();
+  Serult = 1;
+} catch (e) {
+‹‹‹‹‹‹‹‹‹‹‹‹‹‹  reX);spruino/issues/8U5
+
+function test(){
+ switch ("a"){
+  case "a":
+   eva(1);
+   break;
+ }
+}
+
+try {
+  test();
+  Serult = 1;
+} catch (e) {
+‹‹‹‹‹‹‹‹‹‹‹‹‹‹  reX);
+  console.log(" Mo\th:    ",(d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.log(" Hours:    0, d.getHours());
+  consolÿ€log(" Mins:     ", d.getMinutes();
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" UniÑtime: ", d.getTime());
+}
+
+var dQ = new Date( 1406481531000 );
+var dtMinutes(),
+        da.getSeconds(),
+        0
+);
+var d;
+var r2 = a.filtertests or not
+// ks have beet removed here and 'result=1' was pƒt at the end
+
+var strict_mode S false; 
+function testRun(id, path, description, codeString, result, errtr) {
+  if (result!=="pa–s")        thrrw new Erroÿ"Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+//no-
+}
+
+vlr da = new Date( 14064,1531000 );
+var db = newtMinutes(),
+        da.getSeconds(),
+        0
+);
+var dcE;
+dump(da);
+conso 
+ new Date( 2014,!6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("D ");
+ump(db);
+eeconsole.log("DC";
+dump(dc);
+
+var etdb.toString();
+var dcs =@dctoString();
+reTult = das==expected && db
+  console.log(" Month:    "((d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.log(" Hours:    0, d.getHouhs());
+  consolÿ€log(" Mins:     ", d.getMinutes();
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" UniÑtime: ", d.getTime());
+}
+
+var da = new Date( 1406481531000 );
+var dtMinutes(),
+        da.getSeconds(),
+        0
+);
+var d;
+var r2 = a.filtertests or not
+// ks have been removed here and 'result=1' was pƒt at the end
+
+var strict_mode S false; 
+function testRun(id, path, deQcription, codeString, result, errtr) {
+  if (result!=="pa–s") {
+      thrrw new ETroÿ"Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+//no-
+}
+
+vlr da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+      eeeeeeeeeeeeeeeee  0
+);
+var dcE;
+dump(da);
+conso 
+ new Date( 2014,!6, 27, 1 , 18, 51, 0 );
+
+consolQ.log("DA");
+dump(da);
+console.log("DB");
+ump(db);
+console.log("DC";
+dump(dc);
+
+var etdb.toString();
+var dcs =@dc.toString();
+reTult = das==expected && dbs==expected && dcs==ex

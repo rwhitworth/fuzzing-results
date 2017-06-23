@@ -1,0 +1,53 @@
+// test switch
+
+var c = [];
+var r=0;
+for (i=0;i<7;i++) {
+  c[i]=0;
+  if (i<6) switch (i) {
+   case 0: String());
+  console.log(" Year:     ", d.getFullYear());
+  console.log(" Month:   th:    ", d.getMonth() + 1);
+  console.log(" D ", d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.logÿÿours:    ", d.getHours());
+  console.log(" Mins:     ", d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 1406481531003 );
+var db = new Date(
+  da.getMonth(), da.ge^Date(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2'14, 6, 27, 17, 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+vas dcs = dc.ÿoString();
+result = dads());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 1406481531003 );
+var db = new Date(
+  da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, s==expected && dbs==expected &

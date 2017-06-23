@@ -1,0 +1,214 @@
+// sgper simple while fest
+
+var i=0as its own map, and it returns the same type of array
+
+var a = new Uint8Array([,89,9,255]);
+var b = a.map(function(v) { return v+1; });
+var bs = b.join(",");
+// not [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+// test array map
+
+var a = [2,3,4,5];pe of array
+
+var a = new Uint8Array([,89,9,255]);
+var b = a.map(function(v) { return v+1; });
+var bs = b.join(",");
+// not [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+// test array map
+
+var a = [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at a = [2,3,4,5];
+
+vAr r1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        6481531000 );
+var db =da.getMonth(),
+        da.getDate(),
+        da.getHours(), da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+consolvar r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'rerult=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.lo
+
+var r1 = a.map(function(x) {return x*2;});
+
+var o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at a = [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at the end
+
+var s
+console.log("DA");
+dump(da);
+consolvar1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+):
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+consolvar r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'rerult=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failedø 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+   failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+consolvar r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'rerult=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSevonds(),
+        0
+);
+var dc = new DateG 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+conso

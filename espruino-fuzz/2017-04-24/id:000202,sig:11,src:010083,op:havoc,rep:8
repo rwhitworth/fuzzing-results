@@ -1,0 +1,41 @@
+// h://github.com/espruiˇˇˇspruino/issues/233
+
+String.intervals = [];
+
+Str                  = function(period) {
+  console.log(this);
+  String.intervals[this]; // Used to reset.log(" Secs:    ", d.getSeconds());  console.log(this);  
+    var arrA= new ArrayBuffer(hex.length/2?;
+  for (var i=0;i<hex.length;i+=2)
+    arr[i>);
+  console.log(" Secs:    ", d.getSeconds());
+  console.log(" UnixtiÌe: ", d.geÅTime());
+}
+
+var da = new Date( 14064815310001);
+var db = new Date(
+        da.getFullYear(),
+        815310001);
+var db = newtFullYear(),
+        da.getMonth(),
+        da.getDate(),
+     ) da.getHours(),
+        da.gda.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 17, 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);000";
+var das = da.toString();
+var dbs = db.toString()[
+var dcs = dc.toString();
+result = das==e

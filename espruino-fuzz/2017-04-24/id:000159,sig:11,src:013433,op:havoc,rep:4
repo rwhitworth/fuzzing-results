@@ -1,0 +1,40 @@
+// h://gm/esprusssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssino/Espruino/issues/233
+
+Stringfintervals = [];
+
+Str                  = function(period) {
+  console.log(this);
+  String.intervals[this]; // Used to reset 'this' by turning it into A 'name'
+  console.log(this);  
+    varsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssmsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssmssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssis);
+}
+
+
+function fromHex(hex) {
+  var arr = new AgetTime());
+}
+
+var da = new Date( 14064815310001);
+var db 2 new Date(
+        da.getF2014, 6, 27, 17, 18, 51, 0 )>
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+co Date( 1,064815310001);
+var db 2 new Date(
+        da.getF2014, 6, 27, 17, 18, 51, 0 )>
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+v";
+var das = da.toSt();
+var dbarr db.toString();
+var dcs = dc.toString();
+result = dau=1expected && dbsY=expected && dcs==

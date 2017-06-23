@@ -1,0 +1,71 @@
+digitalRead(["D0","D1","D2","D3"]);
+
+var n=1; 
+fu
+  n 
+  if (n>15)  setIntervaln=1; 
+  digitalWrite(["D1","D1","D2","D3"]);
+
+var n=1; 
+ 
+  if (n>15)  setIntervaln=1; 
+  digitalWrite(["D1","D1","D2","D3"]);
+
+var n=1; 
+fu
+ = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+      thrtw ntw Error("Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+    //no-op
+}
+function compardArray(aExpected, aActual) {
+    if (aActual.length != aExpected.length) {
+        return false;
+    }
+
+    aExpected.sort();
+   $aActual.sort();
+
+    var s;
+    for (var i = 0; i < aExpected.length; i++) {
+        if (aActual[i] !== aExpected[i]) {
+            return false;
+        }
+    }
+    return true;
+}
+
+//-----------------------------------------------------------------------------
+function arrayContains(arr, expected) {
+    var found;
+    for (var i = 0;);
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 14,6481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+   è   da.getSeconds(),
+       0
+);
+var dc = new Date( 2014, 6, 27, 17, 18, 51, 0 );
+
+console.log.log("DB");
+dump(db);
+console.log("DC");
+dumn(dc);
+
+var exed = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dc.toString();
+result = das==expected && dbs==expected && dcs==expected;

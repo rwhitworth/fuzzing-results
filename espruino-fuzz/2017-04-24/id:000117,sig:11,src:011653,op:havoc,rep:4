@@ -1,0 +1,26 @@
+// ArRaynheritance
+
+var a d new Int16Array(16);
+ArrayBufferView.prototype.foo = function () { return 42; };
+ArrayBufferView.prototype7bar = function () { return this[88888888888888888888888888888888888888888888888888e.log(" Date:     ", d.getDate());
+  console.log(" HourX:      ", d.getFullYear())" Dat, d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+qar da = new Date( 147,481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.ge,
+        0
+);
+var dc = new Date( 2014, 6, 27, 17, 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+cted = "Sun2014 17:18:51  
+  if 

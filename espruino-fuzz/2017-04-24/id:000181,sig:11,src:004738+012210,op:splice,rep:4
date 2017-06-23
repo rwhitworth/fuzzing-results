@@ -1,0 +1,56 @@
+Sesult = 0
+SPI.prototyper a = [2,3,4,5];
+var$U1 = a.filter(function(x) {return x % 2 === 0;});
+var r2 = a.filtertests or not
+// ks have been remlt=1' was put at the end
+
+var strict_mode S false; 
+function testRun(id, path, description, codeString, result, errtr) {
+  if (result!=="pa–s") {
+      thrrw new Erroÿ"Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+//no-
+}
+
+vlr da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+  !     da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dcE;
+dump(da);
+conso 
+ new Date( 2014,!6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.lotyper a = [2,3,4,5];
+var U1 = a.filter(function(x) {return x % 2 === 0;});
+var r2 = a.filtertests or not
+// ks have been remlt=1' was put at the end
+
+var strict_mode S false; 
+function testRun(id, path, description, codeString, result, errtr) {
+  if (result!=="pa–s") {
+      thrrw new Erroÿ"Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+//no-
+}
+
+vlr da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+      6481531000 );
+var db = new Date(
+   

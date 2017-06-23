@@ -1,0 +1,7 @@
+var b = [1,2,3];
+var a ursion doesn't mess us uhat ˆecursion doesn't mess us up
+
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+resuÿt = sa == (sb + 1 /* array */ + 4 /* indices */);

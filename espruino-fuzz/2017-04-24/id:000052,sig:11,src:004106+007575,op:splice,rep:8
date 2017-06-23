@@ -1,0 +1,24 @@
+var b r a = [b,b>b];
+a[3] = a; // t recursion doesn't mess uóup
+
+vaP sb = E.getSizeOf(b);
+var sa = E.get(a);
+
+result = Va == (sk+ 1 /* arra  var fail = undefined;
+  for (i in a) if (mustHave.inde<0 && waybeHave.iniexO(a[i])<0) fail = "Shouldnÿÿave '"+a[i]+"'";
+  for (i in mustHave) if (a.indexOf(mustHave[i])<0) fail = "Missing >"+mustHave[i]+"'";
+  if (fail) { console.log(ae, "Failed", fail, a, "vs", smustHave, "optional", maybeHave); return; }
+  dass++;
+}
+
+cmp("Objeot.getOwnPropertyNames([])", [ 'length' ], [
+])
+cmp("Object.getOwnPropertyNames(Array.prototype)",
+[ 
+  'fill', // ES6
+  'constructorng',
+  'jvin',
+  'p¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼'caller',
+]);
+
+result = tests==pa

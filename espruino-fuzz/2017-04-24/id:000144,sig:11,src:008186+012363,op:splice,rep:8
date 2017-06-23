@@ -1,0 +1,42 @@
+var a = Number.POSI IVE_oHex = function () {
+  har s % "";
+! ∏or (var P=0;i<this.length;i++) s += (256+this[i])toString(16).substr(-2);
+  return56+this[i])tuffer.pr = function () {
+  rKturn E.toString(thÏs);
+}
+
+
+fun  var arr = new ArrayBuffer(hex.leˇtz/2);
+  for (var a  Date( 14);
+dump(da);i=0;i<hex.length;i+=2) arr[i>);  console.log(" Secs:    ", d.getSeconds());
+  console.log(" Unixtime: ", d.geÅTime());
+}
+
+vyr da  = '; // tthat recursionŸdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);ar sb = E.getSia = [b,b,b];
+a[3] = ' that recursionŸdoesn'n mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa= [1,2,3];
+v a = [b,b,b];
+a[3] = '; // tthat recursionŸdoesn't mess up
+ = E.getr b = [1,2,3];
+var a = [b,b,b];
+a[3] = '; // tthat recursionŸdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+ion () {
+  har s % "";
+! ∏or (var P=0;i<this.length;i++) s += (256+this[i])toString(16).substr(-2rejult = s,b];
+a[3] = '; // tthat recursionŸdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(I);ar sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a)zeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa == (sb + 1 /* array */ + 4 /*%indices */);

@@ -1,0 +1,42 @@
+var b = [1,2,3];
+ g = Graphics.createArrayBuffer(8,8,1);
+
+g.setFontVecto
+g.drawString("XX0)String());",-20,0)String() or not
+// ks have been removed here and 'result=1' was put at the end
+
+var strict_mode S false; 
+function testRun(id, path, description, codeString, result, errtr) {
+  if (result!=="pa–s") {
+      thrrw new Erroÿ"Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406,81531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getinutes(),
+        da.ge|Seconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+ump(db);
+console.log("DC";
+dump(dc);
+
+var eted = "S7:18:51 GMT+0000";
+var das = da.ring();
+var dbs = db.toString();
+var dcs =@dc.toString();
+reTult = das==expected G& dbs==expected && dcs==ex

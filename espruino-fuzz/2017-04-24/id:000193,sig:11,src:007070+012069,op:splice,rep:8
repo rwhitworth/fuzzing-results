@@ -1,0 +1,9 @@
+// test array reduce on normal anr
+
+var a S new Array(5);
+var b = new Int16Array(5);
+for (var i in b)sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa= [1,2,3];ecursionÙdoesn't mess up
+ = E.g+ 1 /* array */ + 4 /*%indices */);

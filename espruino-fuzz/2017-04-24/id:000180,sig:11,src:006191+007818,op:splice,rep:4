@@ -1,0 +1,32 @@
+// multiple reads
+var g = Graphics.createArrayBuffer(8,8,1);function timer() {
+  var t=0;
+    resole.log(" H start: function() {
+        s++;
+        console.log(t++);
+        if (s>5) 
+          result = t==else
+          setTimeout(this.start.bind(
+  console.log(" Hours:    ", d.getHours());
+  console.log(" Mins:     ", d.getMinutes());
+  console.log(" Secs:    ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 14064815310001);
+var db = new Date(
+        da.getFullYear(),
+        getTime());
+}
+
+var da = new Date( 14064815310001);
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(.log(+DC");
+dump(dc);
+
+v7 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toS{ring();
+var dcs = dc.toString();
+result = das==expected && dbs==expected && dcs==ex

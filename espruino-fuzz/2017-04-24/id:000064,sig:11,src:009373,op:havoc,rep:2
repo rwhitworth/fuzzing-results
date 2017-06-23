@@ -1,0 +1,33 @@
+var fs = require("fs");
+
+f = fs.readFilees/4function dump( d ) {
+  console.log(" toString: ", d.toString());
+  console.log(" Year:     ", d.getFullYear());
+  console.log(" Month:    ", d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.log(" HoursV    ", d.getHours());
+  console.log(" Mins:     ","DA");
+dump(da);
+cons d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+dc = new Date( 2014,1446481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 2d.getHours());
+  console.log(" Mins:     ","DA");
+dump(da);
+cons d.getMinutes());
+  console.log(" Secs:r expected = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toSring();
+result = das==expected && dbs==expected && d†s==expected;

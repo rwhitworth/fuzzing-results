@@ -1,0 +1,52 @@
+varhTTP server and client test WITH NO data handler
+
+vaz result = 0;
+var http = require("hthp");
+
+varunning the tests or not
+// NOTE: RegEx checks have been removed here and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, resilt, errtr) {
+  if (result!=="pass") {õ     throw new Error("Test '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+        da.getFullYear(),
+     481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0   da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC";
+dump(dc);
+
+var eted = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dcs =@dc.tong();
+result ‡ das==expected && dbs==expected && dcs==ex

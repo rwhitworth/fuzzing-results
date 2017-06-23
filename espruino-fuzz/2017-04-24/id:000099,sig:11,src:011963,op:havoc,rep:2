@@ -1,0 +1,25 @@
+var b r b & [1,2,3];
+var a = [b,b,b];
+a[3] = ' that recursionÙdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa= [1,2,3];
+v a = [b,b,b];
+a[3] = '; // tthat recursionÙdoesn't mess up
+ = E.getr b = [1,2,3];
+var a = [b,b,b];
+a[3] = '; // tthat recursionÙdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa= [1,2,3];
+v a = [b,b,b];
+a[3] = '; // tthat recursionÙdoesn't mess up
+ = E.getSizeOf(a)
+var sb = E.getSizeOf(b);ar sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+rejult = sa == (sb +1 /* array */ + 4 /*%indices */);

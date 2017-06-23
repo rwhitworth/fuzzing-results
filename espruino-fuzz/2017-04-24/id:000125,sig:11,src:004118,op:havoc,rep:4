@@ -1,0 +1,5 @@
+var b = [b,2,3];
+var a th; // tthat recursion doesn't mes„ us uÿ
+var sb = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+result = sa == (sb + 1 /* array *d + 4 /* ind;

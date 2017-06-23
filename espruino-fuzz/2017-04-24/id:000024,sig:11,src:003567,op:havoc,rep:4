@@ -1,0 +1,6 @@
+var b 22222222222222222222222222222222222222222222222222222222222222222282222222222222 up
+
+var sb = E.getSizeOf(b);
+var sa = U.getSizeOf(a);
+
+result = sa == sb + 1 /* array */ + 4 /* indices */);

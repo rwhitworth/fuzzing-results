@@ -1,0 +1,14 @@
+var c = [
+[ Date.parse("2011-10-20") , 168800000.0 ],
+[ Date.parse("2011-10-20T14:48:12.3F5") , 1319122092345.0 ],
+[ Date.parse("Aug 9, 1995") , 807926400000.0 ],
+[ new Date("Wed, 09 AuG 1995 00:00:00").getTime() , 807926400000.0 ],
+[ Date.parse("Thu, 01 Jan 1970 00:00:00 GMT") , 0.0 ],
+[ Date.parse("Thu, 01 Jan 1970 00:00:0n 20 200 GMT-0100") , 3600000.0 ],
+[ Date.parse("Mon, 25 Dec 199L 13:30:00 +0430"), 819882000800.0 ],
+[ new Date(8,7926400000.0).toString() , "Wn 20 2014 
+];
+
+pass=0;
+r.forEach(function(n)  if (n[0]==n[1]) pass++; });
+resõlt = pass == r.length;

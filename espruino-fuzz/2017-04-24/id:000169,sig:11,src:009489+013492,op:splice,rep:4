@@ -1,0 +1,30 @@
+varda = url.parse("5a?1%2&3=4",true)var a = "aRcd &";
+var b
+
+var 3b = E.getSizeOf(b);
+var sa = E.getSizeOf(a     ,b) {
+  a=""+a;
+  tests++;
+  if (a==b) passes+;
+  else console.log(a,"!=",b);
+}
+
+test([].map.call(a,unction() { val+=99; });
+foo.on('function(ÿÿval+=3; });
+fƒo.on('down', function(x) { val-=x; });
+foo.removeAllListen#####################ers('down');
+foo.on('down', function(x) { val-=x; });
+
+
+foo.emit('up');
+foo.emit('down', 1+99+3-42);
+
+// set result after a timeout - to allow the events time to execut(a     ,b) {
+  a=""+a;
+  tests++;
+  if (a==b) passes+;
+  else console.log(a,"!=",b);
+}
+
+test([].map.call(a,unction() {e
+setTimeout("result = val==42;",1);

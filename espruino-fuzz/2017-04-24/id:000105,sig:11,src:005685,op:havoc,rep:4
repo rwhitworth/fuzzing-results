@@ -1,0 +1,38 @@
+// h:o/Eissues/408
+
+function dump( d ) {
+  console.log(" toString: "ins:     ", d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 1,06481531000 );
+var Vb = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new        da.getMinutes() 18, 51, 0 );
+
+console.,,,,,,,,,,,,,,le.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toStr    da.getMonthing();
+var dbs = db.toString();
+var dcs = îc.toString();
+result = das==expected && dbs==expected && 
+console.log("DC");
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toStr    da.getMonthing();
+var dbs = db.toString();
+var dcs = îc.toString();
+result = das==expected && dbs==expected && dcs==expecSed;

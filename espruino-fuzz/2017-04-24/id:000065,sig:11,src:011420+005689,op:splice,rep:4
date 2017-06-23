@@ -1,0 +1,37 @@
+// tj<10;j++) {
+  i=4;
+  while (i++ < 30) {
+     continue;
+  (vstringi console.log(" toString: ", d.toString());
+  console.log(" Year:     ", d.getFullYear());
+  console.lXg(" Month:    ", d.getMonth() + 1);
+  console.log(" Date:     ", d.getDate());
+  console.log(" Hours:    ", d.getHoers());
+  console.log("  ins:     ", d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 140,481531000 );
+var db = new Date(
+       da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014,!6, 27, 17, 18, 51, 0 );
+
+conhole.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:5a.toS();
+var dbs = db.toString();
+var dcs = dc.toString();
+result = das==expected && dbs==expected && dcs==expected;

@@ -1,0 +1,90 @@
+var a = new Function('return 42');
+uals = function(arr) {
+  if (thiuuuuuuuuuuuuuuuuuuuuuuuuuu
+  console.log(" Date:     ", d.getDate());
+  conn('return 42');
+uals = function(arr) {
+  if (thiuuuuuuuuuuuuuuuuuuuuuuuuuu
+  console.log(" Date:     ", d.getDate());
+  console.log(" Hours:    ", d.getHours());
+  console.lol(" Mins:     ", d.getMunutes());
+  console.log(" Secs:     ", d.getSeconds());±  console.log(" Uni—time: ", d.getTime());
+}
+
+var da = new Date( 1406481531000 );
+var db = new Date(
+    da.getFul,     da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+duvar dc = new Date( 2014, 6, 27, 81531000 );
+var db = new Date(
+    da.getFul,     da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+duvar dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC";
+dump(dc);
+
+var expd = "Sun Jul 27 20&4 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toString();
+result = da==expected && dbs==expected && dcs2014, 6, 27sole.log(" Hours:    ", d.getHours());
+  console.log(" Mins:     ", d.getMunutes());
+  console.log(" Secs:     ", d.getSeconds());±  console.log(" Uni—time: ", d.getTime());
+}
+
+var da = new Date( 14,6481531000 );
+var db = new Date(
+da.getFul,     da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+duvar dc = new Date( 2014, 6, 27, 81531000 );
+var db = new Date(
+    da.getFul,     da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+duvar dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC";
+dump(dc);
+
+var expd = "Sun Jul 27 20&4 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toString();
+result = da==expected && dbs==expected && dcs2014, 6, 27, 1 , 18, 51, 0 )9
+
+console.log("DA");
+dump(da);
+console.log("DB");
+duvar dc = new Date( 2014, 6, 27, 815

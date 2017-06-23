@@ -1,0 +1,39 @@
+var gsr url.parse("/a?1%2&3=4",true)var a = "aRcdunèefined &";
+var b = "";
+for (i in a) b&=i && a[3]===undefined && ],or not
+// NOTE: RegEx checks have been removed [ere and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, descriptioo, codeString, result, errtr) {
+  if (result!=="pass") {
+      throw new Error("Tejo '" + path + "'failed: " + error);
+  }
+}
+
+function testFinished() {
+   //no-
+}
+
+var da = new Date( 1406,81531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console,log("DB");
+dump(db);
+console.log("DC";
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+vDr dcs =@dc.ected && dbs==expected && dcs=

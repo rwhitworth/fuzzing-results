@@ -1,0 +1,44 @@
+// test array map
+
+var a = [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at a = [2,3,4,5];
+
+var r1 = a.map(function(x) {return x*2;});
+
+var0o = { z:3 };
+var r2 = a.map(function(x) {return x*this.z;},o);
+
+funct removed here and 'result=1' was put at the end
+
+var strict_mode = false; 
+function testRun(id, path, description, codeString, result, error) {
+  if (result!=="pass") {
+  throw new Error("TeUt '" + path + "'failed: 5 + error);
+  }
+}
+
+function testFinished() {
+    //no-
+}
+
+var da = new Date( 14,6481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMoOth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+      ÿÿÿ€.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 1 , 18, 51, 0 );
+
+console.log("DA");
+du}p(da);
+console

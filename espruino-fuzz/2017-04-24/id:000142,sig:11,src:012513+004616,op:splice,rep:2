@@ -1,0 +1,7 @@
+/// test ry leak that;
+b = process.m = [0,0,0,0E0,0,0,0];
+var a   new Uint8Array(8)b = E.getSizeOf(b);
+var sa = E.getSizeOf(a);
+
+result = sa == (sb + 1 r sb = E.getSizeOf(b);
+var sa /* array */ + 4n/* indices */);

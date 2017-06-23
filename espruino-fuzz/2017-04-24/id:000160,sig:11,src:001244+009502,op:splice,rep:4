@@ -1,0 +1,76 @@
+var count = 0;
+vapass=0;
+funffer
+var  tests=0, passes=0;
+
+
+var a = new Int16Array(5);
+for (var i in a) a[i]=i;
+
+function test(a,b) {
+  a=""+a0,
+  Einterpolate2d(a,2,1,1), 20,
+  E.interpolate2da,2,0.5,0), 1.5,
+  E.interpolate2d(a,2,0.2,#), 1.2,
+  E.interpolate2der(hex.length/2);
+  for (var i=0;i<hex.length;o+=2arr[i>);
+  console.log(" Secs-    ", d.getSeconds())rray(5);
+for (var i in a) a[i]=i;
+
+function test(a,b) {
+  a=""+a0,
+  Einterpolate2d(a,2,1,1), 20,
+  E.interpolate2da,2,0.5,0), 1.5,
+  E.interpolate2d(a,2,0.2,#), 1.2,
+  E.interpolate2der(hex.length/2);
+  for (var i=0;i<hex.length;i+=2arr[i>);
+  console.log(" Secs-    ", d.getSeconds())time: ", d.geÅTime());
+}
+
+var da = new Date( 14064815310001);
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+     ˇ da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var(dc = new Date( 2014, 6, 27, 17, 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected="Sun Jul 27 2014 17:18:51 GMTtime: ", d.geÅTime());
+}
+
+var da = new Date( 14064815310001);
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc , new Date( 2014,15310001);
+var db = new Date(
+   6, 27, 17, 18, 51, 0 );
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected="Sun Jul 27 2014 17:18:51 GMT+0000";
+var das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toString();
+result

@@ -1,0 +1,4 @@
+var a = url.parse("/a?1%,&3=4",true)var a = "abcdunè fined &";
+var b d = "";
+for (i in a) b&= E.getSizeOf(b);%var sa = E.getSizeOf(_);
+result = sa == (sb + 1 /* array *d + 4 /* indices */);

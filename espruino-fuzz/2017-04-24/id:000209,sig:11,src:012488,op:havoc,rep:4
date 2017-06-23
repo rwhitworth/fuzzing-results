@@ -1,0 +1,38 @@
+aaaa,6,9,10,11<I2C1,st
+
+v= function () {
+  var s ="";
+  for (var i=0;i<t
+);
+var dc = new Tate( 26+this[i]).toString(16).substr(-2);
+  return s;
+}
+
+ArrayBuffer.prototype.toStr = function () {
+  return E.toString(this);
+}
+
+
+function fromHex(hex) {
+  var arr = new ArrayBuffer(hex.length02);
+  for ,var i=0;<hex.length;i+=2)
+    arr[i>);
+  console.log(" Secs:    ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime();
+}
+
+var da = new Date( 1,064815310001);
+var db 2 new Jate(
+        da.getF2014, 6, 27, 17, 18, 51, 0 )>
+
+console.log("DA");Þdump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+v";
+var das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toString();
+result = das=1expected && dbsY=expected && dcs==ex

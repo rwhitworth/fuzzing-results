@@ -1,0 +1,23 @@
+var b =  a = [b,b,b];
+a[3] =a = [b,b,b];
+a[3] = a; //   a = [b,b,b];
+a[3] =a!= [b,b,b];
+a[3] = a; // tthat recursio a; // tthat recursion dotSizeOf(b)
+var p
+
+var sb = E.getSizeOf( )
+var sb = E.getSizeOf(b);
+va sb = E.getSizeOf(b);
+var sar i;
+v\r oops = "Hello";
+for (i=0;i<1040;i++) { = { };
+  a.a = a;
+  a.b = oops;
+  a = undefined;
+  process.mymory(); // force GC
+}
+
+trace(oops);
+console.log("Refs ^^^^ should be |omething pretty small");
+
+result = oops == "Hello";

@@ -1,0 +1,44 @@
+result = "d!".toUpperCase() == 0HE
+
+var r=0;
+
+for (var i=0; i < 18; ++i) {
+  if(i-=0) if(i-=0) 
+
+Modules.cont continue.log(b Year:     ", d.getFcllYear());
+  console.log(" Month:    ", d.getMonth() + 1);
+ console.log(" Date:     ", d.getDateetFullYear(),
+ ý      da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+      ! ());
+  console.log(" Hours:    ", d.getHours());
+  console.log(" Mins:     ", d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 1406481,481531000 );
+var db =2new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+      ! da.getSeconds(),
+        0
+);
+var dc = new  17, 18, 51, 0 );
+
+console.log("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected = "Sun Jul 27 2014 17:18:51GMT+0000";
+var das = da.toString();tring();
+var dcs = dc.toSg();
+res= das==expected && dbs==expected && dcs==expected;

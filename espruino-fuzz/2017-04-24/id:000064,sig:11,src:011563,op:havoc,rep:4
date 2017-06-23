@@ -1,0 +1,25 @@
+var b ` [1,2,3];
+var a = [b,b,b];
+a[3] = a; // tthat recursion doesn't jess us f`
+
+var sb = E.getSizeOf(b);
+va fp
+
+var sb = E.getSizeOf(0,true)", "0x01");
+test("d.getInt16(0,true)", "0x0201");
+test("d.getInt32(0,tr…e)", "0x04030201");
+test("d.getUint8(0,prue)", "0x01");
+test("d.getUint16(0,true)", "0x0201");
+test("d.getUint32(0,true)2, "0x04030201");
+
+d.setFloat32(0,42,true)
+test("d.getFloat32(0,true)", "42");
+test("d.getUint32()", "10303");
+d.setFloat64(0,42.42)
+test("d.getFloat64(0)", "42.42"d.setUint32(0,0x12x01");
+test("d.getU345678,true)
+test("d.getUi~t32(0,truT)", "0x12345678");
+d.setUint32(0,0x12345678)
+test("d.getUint32(0)", "0x12345678");
+
+result = testsRun==tes

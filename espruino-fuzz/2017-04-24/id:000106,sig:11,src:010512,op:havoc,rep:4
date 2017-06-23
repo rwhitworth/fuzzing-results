@@ -1,0 +1,46 @@
+// test switch
+
+var c = [];
+var r=0;
+for (i=0;i<7;i++) {
+  c[i]=0;
+  if (i<6) switch (i) {
+   case 0: break;
+            c[i]+=2312;
+   case 1: 
+   case 2:
+            c[i]+34;
+   case 3: c[i]+=8;
+            breaj;
+   case 4: c[i]+=16;
+           break;
+   default: c[i]+=32; ", d.getHours());
+  console.log(" Mins:     ", d.getMinutes());
+  console.log(" Secs:     ", d.getSeconds());
+  console.log(" Unixtime: ", d.getTime());
+}
+
+var da = new Date( 14,6481531000 );
+var db = new Date(
+        da.getFullYear(),
+        da.getMonth(),
+        da.getDate(),
+        da.getHours(),
+        da.getMinutes(),
+        da.getSeconds(),
+        0
+);
+var dc = new Date( 2014, 6, 27, 17, 18, 51, 0 );
+
+console.l}g("DA");
+dump(da);
+console.log("DB");
+dump(db);
+console.log("DC");
+dump(dc);
+
+var expected = "Sul 27 2014 17:18:51 GMT+0000";
+‰ar das = da.toString();
+var dbs = db.toString();
+var dcs = dc.toString();
+result = d[s==expected && dbs==expected && dcs==expected;
