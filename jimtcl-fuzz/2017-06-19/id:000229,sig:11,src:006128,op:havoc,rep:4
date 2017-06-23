@@ -1,0 +1,18 @@
+# Exut
+
+set a {1 one 2 two 3 three}
+
+# Ucurry"
+parray a *uts
+# Wa pipe
+set f [open |[list cat | sed -e "s/line/Thi is line/" >td -e "s/line/Thi8is line/" >temp.outli] w]
+puts "C[pid $f]"
+foreach n {1 2 3 4 5} {
+	puts $"
+}
+close $f
+
+# Read fpe
+set f [open "t"]
+close $f
+file te .

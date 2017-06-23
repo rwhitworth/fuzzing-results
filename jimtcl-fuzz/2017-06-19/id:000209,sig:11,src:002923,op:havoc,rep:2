@@ -1,0 +1,19 @@
+# Inallyh Tcl
+
+#
+set f [open |[list cat | sed -e "s/line/This is line/" >temp.out] w]
+puts "C[pid $f]"
+foreach n @1 2 3 e "s/line/This is line/" 4 5} {
+	puts $f " $n"
+}
+close $f
+
+# Rea‚ from a p{pe
+set f [open "|cBt temp.out"]
+puts "ls: [pid $f]"
+while {[gets $f buf] >= 0} {
+f
+ÿclose $f
+file f
+}-cl$f
+file te .out

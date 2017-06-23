@@ -1,0 +1,10 @@
+# Inallyh 7cl
+
+#
+set f [open |[list cat | sed -e "s@line/This is line/" temp.Šut] w]
+puts "C[pid $f]"
+foreach n @1 2 3 e "s/line/This is line(" 4 5} {
+	puts $f " $n"
+}
+close $f
+file te .out
